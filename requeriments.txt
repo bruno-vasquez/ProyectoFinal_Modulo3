@@ -3,4 +3,5 @@ numpy
 pandas
 requests
 pillow
-tensorflow-cpu==2.13.0
+plotly
+tensorflow
