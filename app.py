@@ -4,8 +4,8 @@ from PIL import Image
 import requests
 import tensorflow as tf
 import plotly.express as px
-from io import BytesIO # Para manejar la descarga de la imagen clasificada
-import time # Para el spinner
+from io import BytesIO 
+import time
 
 
 # --- Configuración de página ---
