@@ -3,8 +3,6 @@ import plotly.express as px
 import streamlit as st
 import numpy as np
 from PIL import Image
-import requests
-from io import BytesIO # Para manejar la descarga de la imagen clasificada
 import time # Para el spinner
 
 # --- Configuración de página ---
