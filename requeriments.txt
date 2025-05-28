@@ -1,6 +1,6 @@
 streamlit
 numpy
-plotly
+plotly.express
 pillow
 requests
 tensorflow
