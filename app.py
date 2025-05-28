@@ -2,10 +2,11 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import requests
-from io import BytesIO # Para manejar la descarga de la imagen clasificada
-import time # Para el spinner
 import tensorflow as tf
 import plotly.express as px
+from io import BytesIO # Para manejar la descarga de la imagen clasificada
+import time # Para el spinner
+
 
 # --- Configuración de página ---
 st.set_page_config(page_title="Clasificador de Residuos Inteligente", layout="wide", initial_sidebar_state="expanded")
