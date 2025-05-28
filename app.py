@@ -1,11 +1,11 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-import tensorflow as tf
 import requests
 import plotly.express as px
 from io import BytesIO 
 import time
+import tensorflow as tf
 
 
 # --- Configuración de página ---

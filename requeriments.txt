@@ -1,6 +1,6 @@
 streamlit
 numpy
-plotly
-pillow
+pandas
 requests
+pillow
 tensorflow-cpu==2.13.0
